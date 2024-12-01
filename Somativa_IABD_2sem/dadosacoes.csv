@@ -1,4 +1,4 @@
-nome ação,preço ação R$,qtde cotas,valor de mercado R$ -(Bilhões)
+nome_acao, preco_acao, qtde_cotas, valor_de_mercado  // R$ -(Bilhões)
 VALE3,194,45,2134
 SUZB3,91,71,3069
 SUZB3,165,41,2815
